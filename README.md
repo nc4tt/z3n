@@ -6,7 +6,6 @@
   <a href="https://github.com/nc4tt/z3n/commits/sixteen"><img loading="lazy" src="https://img.shields.io/github/last-commit/nc4tt/z3n/sixteen?style=for-the-badge"/></a>
   <a href="https://github.com/nc4tt/z3n/stargazers"><img loading="lazy" src="https://img.shields.io/github/stars/nc4tt/z3n?style=for-the-badge"/></a>
   <a href="https://github.com/nc4tt/z3n/actions/workflows/build.yml"><img loading="lazy" src="https://img.shields.io/github/actions/workflow/status/nc4tt/z3n/build.yml?style=for-the-badge"/></a>
-  <a href="https://crowdin.com/project/UN1CA"><img loading="lazy" src="https://img.shields.io/badge/Crowdin-263238?style=for-the-badge&logo=crowdin"/></a>
 </p>
 <p align="center">z3n <i>(/zen/)</i> is a work-in-progress custom firmware for Samsung Galaxy devices. Based from UN1CA build system.</p>
 
