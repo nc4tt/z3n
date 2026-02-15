@@ -20,10 +20,7 @@
 # ROM-specific prebuilt blobs
 prebuilts/bootable/deprecated-ota/updater binary
 prebuilts/*/*/*/** binary
-unica/mods/prophide/system/bin/rezetprop binary
+z3n/mods/prophide/system/bin/rezetprop binary
 
 # Device-specific prebuilt blobs
-target/a52sxq/patches/wpss/vendor/firmware/** binary
-target/a73xq/patches/wpss/vendor/firmware/** binary
-target/m52xq/patches/wpss/vendor/firmware/** binary
-target/r9s/patches/vendor/vendor/** binary
+target/a32/patches/wpss/vendor/firmware/** binary
